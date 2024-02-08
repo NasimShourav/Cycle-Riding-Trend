@@ -4,6 +4,7 @@
 Following the framework of the data analysis process: **Ask, Prepare, Process, Analyze, Share, and Act** , this case-study was designed to address the key business question which is **Maximize the number of annual memberships by converting casual riders to annual members**. 
 
 **1. Ask**
+
 In order to find the answers, the project manager assigned couple of task to different individuals.
 
 a. How do annual members and casual riders use Cyclistic bikes differently?
